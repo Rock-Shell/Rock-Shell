@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
 - 📫 How to find me: 
   - :bulb: [AV articles](https://www.analyticsvidhya.com/blog/author/ayush417/)
-  - :office: [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/)
+  - :office: [LinkedIn](https://www.linkedin.com/in/ayush-gupta-5b9091174/)
 
 [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=Rock-Shell&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
