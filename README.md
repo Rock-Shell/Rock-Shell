@@ -1,36 +1,62 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Ayush Gupta
 
-## Getting Started
+**AIML Engineer | Generative AI & ML Enthusiast**
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Summary
+AIML Engineer with experience building scalable GenAI applications and ML pipelines across cloud platforms. Skilled in RAG, LangChain, LangGraph, LlamaIndex, LLMs, vector databases, and attention-based architectures. Proven track record of deploying real-time GenAI solutions for intelligent automation, personalized customer interactions, and contextual understanding. Passionate about optimizing ML workflows with model evaluation, distillation, and prompt engineering.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Experience
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+**GEP** – *Associated Data Scientist*  
+*Jan 2025 – Present*  
+- Automating Contract Lifecycle Management using AI, empowering contract redlining, drafting, and quality checks.
 
-## Learn More
+**Capgemini** – *Software Engineer Intern*  
+*Aug 2022 – Jun 2025*  
+- Developed RAG-based conversational AI chatbots reducing support time by 60%.  
+- Designed agentic workflows using LangGraph and human feedback loops.  
+- Built AI-powered support systems with OpenAI embeddings and GPT models.  
+- Automated ticket categorization and improved triage efficiency (>0.8 F1-score).  
+- Engineered Generative AI APIs to reduce manual documentation efforts by 60%.  
 
-To learn more about Next.js, take a look at the following resources:
+**Usthaan** – *Machine Learning Intern*  
+*May 2022 – Jul 2022*  
+- Developed hybrid NER model (SVM + rule-based) for invoice extraction.  
+- Integrated OCR libraries into Dockerized APIs with CI/CD deployment.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Projects
 
-## Deploy on Vercel
+**Unattended Luggage Detection**  
+- YOLOv3-based model to detect unattended items; deployed on Azure Kubernetes Service.  
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**Bike Demand Prediction & Profit Optimization**  
+- Predicted bike rentals using Random Forest and optimized profitability.  
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**Yoga Pose Supervisor**  
+- Real-time CV model for analyzing and improving yoga poses with transfer learning.
+
+---
+
+## Education
+
+- **Maharaja Agrasen Institute of Technology** – B.Tech (2018 – 2022)  
+- **Bhai Parmanand Vidya Mandir** – Class XII (CBSE, 2016 – 2018)
+
+---
+
+## Achievements & Certifications
+
+- Center stage award for creating reverse engineering API reducing manual effort by 60-65%.  
+- Microsoft Certified: Azure AI Fundamentals (AI-900) & Azure Fundamentals (AZ-900)  
+- Analytics Vidhya Creators Club Member  
+
+---
+
+## Connect
+- [LinkedIn](https://www.linkedin.com/in/ayush-gupta-5b9091174/)
