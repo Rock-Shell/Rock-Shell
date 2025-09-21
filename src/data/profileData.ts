@@ -76,4 +76,22 @@ export const profileData = {
       link: "#",
     }
   ],
+  education: [
+      {
+        "institute": "Maharaja Agrasen Institute of Technology",
+        "degree": "Bachelor of Technology",
+        "duration": "Aug 2018 - May 2022"
+      },
+      {
+        "institute": "Bhai Parmanand Vidya Mandir",
+        "degree": "Class XII (CBSE)",
+        "duration": "2016 - 2018"
+      }
+  ],
+  publications: [
+    "Received Center stage award for creating reverse engineering API which helped in reducing human efforts up to 60-65% while creating technical specifications documents",
+    "Microsoft Certified: Azure AI Fundamentals (AI-900)",
+    "Microsoft Certified: Azure Fundamentals (AZ-900)",
+    "Creators Club Member, Analytics Vidhya"
+  ]
 };
